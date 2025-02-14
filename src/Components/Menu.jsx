@@ -9,3 +9,4 @@ const Menu = ({ completeTask, IncompleteTask, allTasks }) => {
   );
 }
 export default Menu;
+
