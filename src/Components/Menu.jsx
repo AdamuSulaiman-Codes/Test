@@ -8,5 +8,10 @@ const Menu = ({ completeTask, IncompleteTask, allTasks }) => {
     </ul>
   );
 }
+
+
+
+
+
 export default Menu;
 
